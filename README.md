@@ -1,5 +1,7 @@
 # Astrophysicists on Mastodon
 
+[![Build and deploy](https://github.com/smaret/astrophysicists-on-mastodon/actions/workflows/jekyll.yml/badge.svg)](https://github.com/smaret/astrophysicists-on-mastodon/actions/workflows/jekyll.yml)
+
 This repository provides a most simple web app that helps to bulk
 follow astrophysicists on the FOSS microblogging service Mastodon. In it
 you can create a csv file that can be uploaded in any accounts
