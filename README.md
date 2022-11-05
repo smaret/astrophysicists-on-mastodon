@@ -5,6 +5,14 @@ follow astrophysicists on the FOSS microblogging service Mastodon. In it
 you can create a csv file that can be uploaded in any accounts
 mastodon seetings, in order to follow a list of accounts at once.
 
+## Installation
+
+```
+gem install bundler
+bundle install
+bundle exec jekyll serve
+```
+
 ## License
 
 The repository can be used under GNU General Public Licese v3, except
