@@ -9,7 +9,7 @@ mastodon seetings, in order to follow a list of accounts at once.
 
 ## Installation
 
-```
+```shell
 gem install bundler
 bundle install
 bundle exec jekyll serve
@@ -17,6 +17,11 @@ bundle exec jekyll serve
 
 ## License
 
-The repository can be used under GNU General Public Licese v3, except
+Code can be used under GNU General Public License v3, except
 the `/resources/users.csv` file, which can only be used with
 explicit permission by the authors.
+
+## Credits
+
+This repository is based on [Mastodon
+Sociologists](https://github.com/trutzig89182/Mastodon-Sociologists).
